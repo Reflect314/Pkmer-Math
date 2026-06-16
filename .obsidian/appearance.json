@@ -3,7 +3,7 @@
   "translucency": false,
   "baseFontSize": 16,
   "textFontFamily": "微软雅黑,Consolas",
-  "theme": "obsidian",
+  "theme": "system",
   "cssTheme": "GitHub Theme",
   "enabledCssSnippets": [
     "custom-folder-icon",
