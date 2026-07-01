@@ -332,7 +332,6 @@
       "key": "="
     }
   ],
-  "switcher:open": [],
   "quickadd:runQuickAdd": [
     {
       "modifiers": [
@@ -406,6 +405,14 @@
         "Shift"
       ],
       "key": "M"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
     }
   ]
 }
