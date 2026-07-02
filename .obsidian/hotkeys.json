@@ -152,7 +152,8 @@
       "key": "E"
     }
   ],
-  "media-extended:toggle-play": [
+  "switcher:open": [],
+  "quickadd:runQuickAdd": [
     {
       "modifiers": [
         "Mod"
@@ -183,6 +184,14 @@
         "Alt"
       ],
       "key": "S"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
     }
   ]
 }
